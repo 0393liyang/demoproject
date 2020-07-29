@@ -1,7 +1,7 @@
 package com.stephen.study.demoproject.service;
 
 import com.github.pagehelper.PageInfo;
-import com.stephen.study.demoproject.model.userabc;
+import com.stephen.study.demoproject.entity.userabc;
 
 public interface UserService {
     int addUser(userabc userabc);

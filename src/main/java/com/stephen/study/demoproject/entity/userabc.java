@@ -1,4 +1,4 @@
-package com.stephen.study.demoproject.model;
+package com.stephen.study.demoproject.entity;
 
 public class userabc {
     private Integer id;

@@ -1,6 +1,6 @@
 package com.stephen.study.demoproject.controller;
 
-import com.stephen.study.demoproject.model.userabc;
+import com.stephen.study.demoproject.entity.userabc;
 import com.stephen.study.demoproject.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

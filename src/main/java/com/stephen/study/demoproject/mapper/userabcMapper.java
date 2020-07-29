@@ -1,6 +1,6 @@
 package com.stephen.study.demoproject.mapper;
 
-import com.stephen.study.demoproject.model.userabc;
+import com.stephen.study.demoproject.entity.userabc;
 
 import java.util.List;
 

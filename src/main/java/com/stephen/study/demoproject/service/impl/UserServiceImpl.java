@@ -3,7 +3,7 @@ package com.stephen.study.demoproject.service.impl;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import com.stephen.study.demoproject.mapper.userabcMapper;
-import com.stephen.study.demoproject.model.userabc;
+import com.stephen.study.demoproject.entity.userabc;
 import com.stephen.study.demoproject.service.UserService;
 import org.springframework.stereotype.Service;
 
