@@ -1,5 +1,9 @@
 package com.stephen.study.demoproject;
 
+/**
+ * 断言
+ * 启动项下拉里选择 edit configuration ，VM options里面加上  -ea
+ */
 public class main {
     public int add(){
         int a=1;

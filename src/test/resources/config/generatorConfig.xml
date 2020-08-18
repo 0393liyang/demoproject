@@ -5,7 +5,7 @@
 
 <generatorConfiguration>
     <!-- 指定数据库驱动的jdbc驱动jar包的位置 -->
-    <classPathEntry location="F:\repository\mysql\mysql-connector-java\8.0.15\mysql-connector-java-8.0.15.jar" />
+    <classPathEntry location="D:\JAVA\repository\mysql\mysql-connector-java\8.0.15\mysql-connector-java-8.0.15.jar" />
 
     <!-- <context id="mysql" defaultModelType="hierarchical" targetRuntime="MyBatis3Simple" >-->
     <context id="Tables" targetRuntime="MyBatis3">
@@ -57,8 +57,8 @@
         </javaClientGenerator>
 
         <!-- 设置数据库的表名和实体类名 -->
-        <table  tableName="user" enableSelectByPrimaryKey="true"
-               domainObjectName="User" enableCountByExample="false"
+        <table  tableName="result" enableSelectByPrimaryKey="true"
+               domainObjectName="ResultAbc" enableCountByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                enableUpdateByExample="false">
         </table>
